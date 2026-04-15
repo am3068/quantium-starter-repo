@@ -1,0 +1,13 @@
+body {
+    background-color: #f4f6f7;
+}
+
+h1 {
+    font-weight: bold;
+}
+
+.dash-graph {
+    border-radius: 10px;
+    box-shadow: 0px 4px 12px rgba(0,0,0,0.1);
+    padding: 10px;
+}
